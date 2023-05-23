@@ -8,3 +8,11 @@ Username: admin
 Password: 123
 
 **Driver's Reg.Code can be found under Cab Management Section**
+Login for Driver is Reg.Code like 202305-00002. 
+For all drivers passwords are the same - 123
+
+
+
+PLEASE, RUN ONLY LOCALHOST NUMBER 8505. IT'S WRITTEN IN BASE URL AS 8505
+HERE IS HOW TO RUN SERVER ON TERMINAL OR GIT BASH:
+php -S localhost:8505
